@@ -1,5 +1,9 @@
 # Deep-In-Net
 
+I've added pictures and questions to all the answers in the audit page to this readme file. To check the configs for ever exercise you need to download and install Cisco Packet Tracer
+
+If you don't have Cisco Packet Tracer, you could have to make an user and then you can download it from https://www.netacad.com/cisco-packet-tracer
+
 ## exercise 1
 
 ![picture](ex01.png)
